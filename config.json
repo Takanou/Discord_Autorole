@@ -1,5 +1,6 @@
 {
     
-    "autorole_roleID": "ROLEID"
+    "autorole_roleID": "ROLEID",
+    "join_discord_message": "CHANNELID"
   }
   
